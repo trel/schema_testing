@@ -7,19 +7,19 @@
         "re_rulebase_set": {                                                                                                                                                                         
             "type": "array",                                                                                                                                                                         
             "items": {                                                                                                                                                                               
-                "$ref": "filename"                                                                                                                                                                   
+                "$ref": "https://raw.githubusercontent.com/trel/schema_testing/master/filename"                                                                                                                                                                   
             }                                                                                                                                                                                        
         },                                                                                                                                                                                           
         "re_function_name_mapping_set": {                                                                                                                                                            
             "type": "array",                                                                                                                                                                         
             "items": {                                                                                                                                                                               
-                "$ref": "filename"                                                                                                                                                                   
+                "$ref": "https://raw.githubusercontent.com/trel/schema_testing/master/filename"                                                                                                                                                                   
             }                                                                                                                                                                                        
         },                                                                                                                                                                                           
         "re_data_variable_mapping_set": {                                                                                                                                                            
             "type": "array",                                                                                                                                                                         
             "items": {                                                                                                                                                                               
-                "$ref": "filename"                                                                                                                                                                   
+                "$ref": "https://raw.githubusercontent.com/trel/schema_testing/master/filename"                                                                                                                                                                   
             }                                                                                                                                                                                        
         },                                                                                                                                                                                           
         "zone_name": {"type": "string"},                                                                                                                                                             
