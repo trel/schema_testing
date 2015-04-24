@@ -1,0 +1,9 @@
+{
+    "id": "https://raw.githubusercontent.com/trel/schema_testing/master/filename#",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "filename": {"type": "string"}
+    },
+    "required": ["filename"]
+}
