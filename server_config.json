@@ -13,7 +13,7 @@
         "re_function_name_mapping_set": {                                                                                                                                                            
             "type": "array",                                                                                                                                                                         
             "items": {                                                                                                                                                                               
-                "$ref": "filename.json"                                                                                                                                                                   
+                "$ref": "filenameb.json"                                                                                                                                                                   
             }                                                                                                                                                                                        
         },                                                                                                                                                                                           
         "re_data_variable_mapping_set": {                                                                                                                                                            
