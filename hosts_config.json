@@ -1,5 +1,5 @@
 {
-    "id": "https://raw.githubusercontent.com/trel/schema_testing/master/hosts_config#",
+    "id": "https://raw.githubusercontent.com/trel/schema_testing/master/hosts_config.json#",
     "$schema": "http://json-schema.org/draft-04/schema#",
     "type": "object",
     "properties": {
